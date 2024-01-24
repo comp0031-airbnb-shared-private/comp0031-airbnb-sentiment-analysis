@@ -1,0 +1,19 @@
+detailed_listings:
+number_of_reviews
+number_of_reviews_ltm (last 12 months)
+number_of_reviews_l30d (last 3o days)
+first_review
+last_review
+review_scores_rating
+review_scores_accuracy
+review_scores_cleanliness
+review_scores_checkin
+review_scores_communication
+review_scores_location
+review_scores_value
+id (listing id)
+room_type (Entire place, Private room, Shared room)
+
+detailed_reviews:
+listing_id
+comments
