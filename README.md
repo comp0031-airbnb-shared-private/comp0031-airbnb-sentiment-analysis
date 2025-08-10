@@ -16,9 +16,11 @@ This project processes **review data** for listings and performs **sentiment ana
 
 ## Personal Contribution
 
-This project is part of a **group project**, with my personal contribution focused on the following:
+This project is part of a **group project** (repo private), with my personal contribution focused on the following:
 - Implementing **sentiment analysis** using natural language processing model **VADER**.
 - Forecasting future review and listing metrics using **Prophet**.
+- Visualising and plotting results in `sentiment_analysis.ipynb` and towards the end of `prophet.ipynb`.  
+- A detailed discussion of the results is available in the **research paper** upon request.
 
 ## Setup
 
